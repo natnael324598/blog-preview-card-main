@@ -1,0 +1,23 @@
+body{
+    height:100vh;
+    align-items:center;
+    display:flex;
+    justify-content:center;
+    background-color:hsl(47, 88%, 63%);
+}
+.card{
+    width:300px; 
+    height:400px; 
+    border:2px solid hsl(0, 0%, 7%); 
+    background-color:hsl(0, 0%, 100%);
+    padding:15px;
+    border-radius:20px;
+}
+p{
+    display:inline;
+    background-color:hsl(47, 88%, 63%);
+}
+.card img{
+    width:100%;
+    border-radius:2px
+}
